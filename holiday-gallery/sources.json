@@ -1,0 +1,142 @@
+[
+  {
+    "id": "holiday-photo-01",
+    "title": "Christmas ornament detail",
+    "theme": "christmas",
+    "file": "holiday-photo-01.jpg",
+    "source": "https://www.pexels.com/search/christmas%20ornaments%20background/"
+  },
+  {
+    "id": "holiday-photo-02",
+    "title": "Red baubles and evergreen",
+    "theme": "christmas",
+    "file": "holiday-photo-02.jpg",
+    "source": "https://www.pexels.com/search/christmas%20ornaments%20background/"
+  },
+  {
+    "id": "holiday-photo-03",
+    "title": "Evergreen branches and gold ornaments",
+    "theme": "christmas",
+    "file": "holiday-photo-03.jpg",
+    "source": "https://www.pexels.com/photo/christmas-wallpaper-with-ornaments-5485128/"
+  },
+  {
+    "id": "holiday-photo-04",
+    "title": "Spring bunny, eggs and flowers",
+    "theme": "easter",
+    "file": "holiday-photo-04.jpg",
+    "source": "https://pexels.com/photo/silver-figurine-of-a-bunny-in-an-easter-decoration-11785753"
+  },
+  {
+    "id": "holiday-photo-05",
+    "title": "Bunny and egg in a spring meadow",
+    "theme": "easter",
+    "file": "holiday-photo-05.jpg",
+    "source": "https://pexels.com/photo/easter-egg-and-brown-bunny-on-the-brown-grass-field-7258468"
+  },
+  {
+    "id": "holiday-photo-06",
+    "title": "Colorful eggs in a flower garden",
+    "theme": "easter",
+    "file": "holiday-photo-06.jpg",
+    "source": "https://pexels.com/photo/holiday-holidays-festive-garden-7281935"
+  },
+  {
+    "id": "holiday-photo-07",
+    "title": "Glowing jack-o-lanterns and candles",
+    "theme": "halloween",
+    "file": "holiday-photo-07.jpg",
+    "source": "https://pexels.com/photo/jack-o-lantern-beside-candles-halloween-decor-214334"
+  },
+  {
+    "id": "holiday-photo-08",
+    "title": "Autumn pumpkins and candle flat lay",
+    "theme": "halloween",
+    "file": "holiday-photo-08.jpg",
+    "source": "https://pexels.com/photo/pumpkins-and-candles-on-the-table-9969180"
+  },
+  {
+    "id": "holiday-photo-09",
+    "title": "Pumpkin and warm autumn lights",
+    "theme": "halloween",
+    "file": "holiday-photo-09.jpg",
+    "source": "https://pexels.com/photo/autumn-decoration-with-pumpkin-and-alarm-clock-12932508"
+  },
+  {
+    "id": "holiday-photo-10",
+    "title": "Ramadan lantern and dates",
+    "theme": "ramadan",
+    "file": "holiday-photo-10.jpg",
+    "source": "https://pexels.com/photo/close-up-photo-of-raisins-and-dates-2291592"
+  },
+  {
+    "id": "holiday-photo-11",
+    "title": "Iftar table with dates",
+    "theme": "ramadan",
+    "file": "holiday-photo-11.jpg",
+    "source": "https://pexels.com/photo/plate-of-dried-dates-7469433"
+  },
+  {
+    "id": "holiday-photo-12",
+    "title": "Ramadan iftar table spread",
+    "theme": "ramadan",
+    "file": "holiday-photo-12.jpg",
+    "source": "https://pexels.com/photo/bowl-of-dates-on-table-7249766"
+  },
+  {
+    "id": "holiday-photo-13",
+    "title": "Decorating a Diwali rangoli",
+    "theme": "diwali",
+    "file": "holiday-photo-13.jpg",
+    "source": "https://pexels.com/photo/vibrant-diwali-rangoli-with-oil-lamps-36778018"
+  },
+  {
+    "id": "holiday-photo-14",
+    "title": "Rangoli and lamps in New Delhi",
+    "theme": "diwali",
+    "file": "holiday-photo-14.jpg",
+    "source": "https://pexels.com/photo/diya-decoration-4078516"
+  },
+  {
+    "id": "holiday-photo-15",
+    "title": "Clay lamps glowing at Diwali",
+    "theme": "diwali",
+    "file": "holiday-photo-15.jpg",
+    "source": "https://pexels.com/photo/couple-lighting-up-candles-in-the-evening-19338044"
+  },
+  {
+    "id": "holiday-photo-16",
+    "title": "Roses and candles on a dinner table",
+    "theme": "valentines",
+    "file": "holiday-photo-16.jpg",
+    "source": "https://pexels.com/photo/a-candle-and-flowers-on-the-table-at-an-elegant-banquet-16935969"
+  },
+  {
+    "id": "holiday-photo-17",
+    "title": "Romantic rose and candle setting",
+    "theme": "valentines",
+    "file": "holiday-photo-17.jpg",
+    "source": "https://pexels.com/photo/elegant-dinner-table-with-red-candles-29585256"
+  },
+  {
+    "id": "holiday-photo-18",
+    "title": "Fireworks over the Hanoi skyline",
+    "theme": "new-year",
+    "file": "holiday-photo-18.jpg",
+    "source": "https://pexels.com/photo/fireworks-display-1268667"
+  },
+  {
+    "id": "holiday-photo-19",
+    "title": "Colorful fireworks at night",
+    "theme": "new-year",
+    "file": "holiday-photo-19.jpg",
+    "source": "https://pexels.com/photo/colorful-fireworks-display-during-festival-celebration-29502853"
+  },
+  {
+    "id": "holiday-photo-20",
+    "title": "Bright fireworks against the night sky",
+    "theme": "new-year",
+    "file": "holiday-photo-20.jpg",
+    "source": "https://pexels.com/photo/green-red-and-blue-fireworks-at-night-3863"
+  }
+]

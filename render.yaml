@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: collins-unguku-pos
+    runtime: docker
+    healthCheckPath: /api/state
+    disk:
+      name: pos-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: DATA_DIR
+        value: /data

@@ -1,0 +1,16 @@
+node_modules/
+.cache/
+.npm/
+.pos-owner-auth.json
+.payment-config-key
+.payment-secrets.enc
+*.tmp
+browser-*.png
+audit-sheet*.jpg
+cand-*.jpg
+candidate-review.jpg
+image-search-*.jpg
+product-photos-*.jpg
+test-photo.jpg
+image-search/
+.sudo_as_admin_successful

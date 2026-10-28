@@ -1,0 +1,355 @@
+{
+ "products": [
+  {
+   "id": 1,
+   "name": "Farmhouse breakfast",
+   "cat": "Breakfast",
+   "desc": "Eggs, toast, avocado & coffee",
+   "price": 980,
+   "icon": "\ud83c\udf73"
+  },
+  {
+   "id": 2,
+   "name": "Buttermilk pancakes",
+   "cat": "Breakfast",
+   "desc": "Maple syrup \u00b7 seasonal berries",
+   "price": 750,
+   "icon": "\ud83e\udd5e"
+  },
+  {
+   "id": 3,
+   "name": "Tropical fruit bowl",
+   "cat": "Breakfast",
+   "desc": "Fresh-cut \u00b7 honey \u00b7 mint",
+   "price": 620,
+   "icon": "\ud83c\udf49"
+  },
+  {
+   "id": 4,
+   "name": "Grilled salmon",
+   "cat": "Mains",
+   "desc": "Herb butter \u00b7 garden vegetables",
+   "price": 1850,
+   "icon": "\ud83d\udc1f"
+  },
+  {
+   "id": 5,
+   "name": "Rib-eye steak",
+   "cat": "Mains",
+   "desc": "250g \u00b7 fries \u00b7 pepper sauce",
+   "price": 2400,
+   "icon": "\ud83e\udd69"
+  },
+  {
+   "id": 6,
+   "name": "Garden veggie bowl",
+   "cat": "Mains",
+   "desc": "Quinoa \u00b7 roast vegetables \u00b7 tahini",
+   "price": 1250,
+   "icon": "\ud83e\udd57"
+  },
+  {
+   "id": 7,
+   "name": "Swahili chicken curry",
+   "cat": "Mains",
+   "desc": "Coconut rice \u00b7 chapati",
+   "price": 1450,
+   "icon": "\ud83c\udf5b"
+  },
+  {
+   "id": 8,
+   "name": "Fresh passion juice",
+   "cat": "Drinks",
+   "desc": "Freshly squeezed \u00b7 300ml",
+   "price": 380,
+   "icon": "\ud83c\udf79"
+  },
+  {
+   "id": 9,
+   "name": "Barista cappuccino",
+   "cat": "Drinks",
+   "desc": "Double shot \u00b7 oat milk available",
+   "price": 420,
+   "icon": "\u2615"
+  },
+  {
+   "id": 10,
+   "name": "Sparkling water",
+   "cat": "Drinks",
+   "desc": "500ml \u00b7 chilled",
+   "price": 250,
+   "icon": "\ud83e\udee7"
+  },
+  {
+   "id": 11,
+   "name": "Chocolate fondant",
+   "cat": "Desserts",
+   "desc": "Warm centre \u00b7 vanilla ice cream",
+   "price": 680,
+   "icon": "\ud83c\udf6e"
+  },
+  {
+   "id": 12,
+   "name": "Mango cheesecake",
+   "cat": "Desserts",
+   "desc": "Baked in-house \u00b7 mango coulis",
+   "price": 590,
+   "icon": "\ud83c\udf70"
+  },
+  {
+   "id": 13,
+   "name": "Classic beef burger",
+   "cat": "Mains",
+   "desc": "Cheddar \u00b7 lettuce \u00b7 house fries",
+   "price": 1350,
+   "icon": "\ud83c\udf54",
+   "photo": "burger"
+  },
+  {
+   "id": 14,
+   "name": "Grilled steak & prawns",
+   "cat": "Mains",
+   "desc": "Steak medallions \u00b7 grilled prawns \u00b7 fries",
+   "price": 2650,
+   "icon": "\ud83e\udd69",
+   "photo": "steak-prawns"
+  },
+  {
+   "id": 15,
+   "name": "Club sandwich",
+   "cat": "Snacks",
+   "desc": "Chicken \u00b7 bacon \u00b7 fries",
+   "price": 980,
+   "icon": "\ud83e\udd6a",
+   "photo": "club-sandwich"
+  },
+  {
+   "id": 16,
+   "name": "Crispy fries",
+   "cat": "Snacks",
+   "desc": "Sea salt \u00b7 tomato ketchup",
+   "price": 420,
+   "icon": "\ud83c\udf5f",
+   "photo": "fries"
+  },
+  {
+   "id": 17,
+   "name": "Samosa duo",
+   "cat": "Snacks",
+   "desc": "Beef or vegetable \u00b7 pili pili",
+   "price": 350,
+   "icon": "\ud83e\udd5f"
+  },
+  {
+   "id": 18,
+   "name": "Chicken wings",
+   "cat": "Snacks",
+   "desc": "Sticky BBQ \u00b7 six pieces",
+   "price": 780,
+   "icon": "\ud83c\udf57"
+  },
+  {
+   "id": 19,
+   "name": "Margherita pizza",
+   "cat": "Mains",
+   "desc": "Tomato \u00b7 mozzarella \u00b7 basil",
+   "price": 1250,
+   "icon": "\ud83c\udf55"
+  },
+  {
+   "id": 20,
+   "name": "Fresh mango smoothie",
+   "cat": "Drinks",
+   "desc": "Mango \u00b7 yoghurt \u00b7 honey",
+   "price": 520,
+   "icon": "\ud83e\udd6d"
+  },
+  {
+   "id": 21,
+   "name": "Passion mojito",
+   "cat": "Drinks",
+   "desc": "Passion fruit \u00b7 lime \u00b7 mint",
+   "price": 650,
+   "icon": "\ud83c\udf78"
+  },
+  {
+   "id": 22,
+   "name": "Tusker Lager",
+   "cat": "Drinks",
+   "desc": "Kenyan lager \u00b7 500ml",
+   "price": 480,
+   "icon": "\ud83c\udf7a"
+  },
+  {
+   "id": 23,
+   "name": "Chocolate brownie",
+   "cat": "Desserts",
+   "desc": "Warm brownie \u00b7 vanilla scoop",
+   "price": 550,
+   "icon": "\ud83c\udf6b"
+  },
+  {
+   "id": 24,
+   "name": "Butter croissant",
+   "cat": "Bakery",
+   "desc": "Baked fresh daily",
+   "price": 320,
+   "icon": "\ud83e\udd50",
+   "photo": "pastry"
+  },
+  {
+   "id": 25,
+   "name": "Banana bread slice",
+   "cat": "Bakery",
+   "desc": "Walnut \u00b7 salted butter",
+   "price": 290,
+   "icon": "\ud83c\udf5e"
+  },
+  {
+   "id": 26,
+   "name": "Masala chai",
+   "cat": "Drinks",
+   "desc": "Kenyan tea \u00b7 warming spices",
+   "price": 280,
+   "icon": "\ud83e\uded6"
+  },
+  {
+   "name": "Nyama choma platter",
+   "cat": "Mains",
+   "desc": "Chargrilled goat \u00b7 kachumbari \u00b7 ugali",
+   "price": 2200,
+   "photo": "nyama-choma",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 27
+  },
+  {
+   "name": "Ugali & sukuma wiki",
+   "cat": "Mains",
+   "desc": "Kenyan maize meal \u00b7 braised collard greens",
+   "price": 650,
+   "photo": "ugali",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 28
+  },
+  {
+   "name": "Swahili pilau",
+   "cat": "Mains",
+   "desc": "Spiced rice \u00b7 kachumbari \u00b7 pili pili",
+   "price": 950,
+   "photo": "pilau",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 29
+  },
+  {
+   "name": "Mukimo & beef stew",
+   "cat": "Mains",
+   "desc": "Potato, maize & greens \u00b7 slow-cooked beef",
+   "price": 1200,
+   "photo": "mukimo",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 30
+  },
+  {
+   "name": "Githeri bowl",
+   "cat": "Mains",
+   "desc": "Slow-cooked maize & beans \u00b7 herbs",
+   "price": 650,
+   "photo": "githeri",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 31
+  },
+  {
+   "name": "Matoke stew",
+   "cat": "Mains",
+   "desc": "East African plantain \u00b7 tomato & coconut",
+   "price": 850,
+   "photo": "matoke",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 32
+  },
+  {
+   "name": "Mandazi pair",
+   "cat": "Snacks",
+   "desc": "Two cardamom dough bites \u00b7 fresh-fried",
+   "price": 180,
+   "photo": "mandazi",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 33
+  },
+  {
+   "name": "Kenyan chapati",
+   "cat": "Snacks",
+   "desc": "Soft, layered flatbread \u00b7 made fresh",
+   "price": 150,
+   "photo": "chapati",
+   "imageOverride": true,
+   "icon": "\ud83c\udf7d\ufe0f",
+   "id": 34
+  }
+ ],
+ "orders": [],
+ "accounts": [],
+ "settings": {
+  "systemName": "Collins Unguku Restaurant",
+  "serviceRate": 5,
+  "vatRate": 16,
+  "channelsEnabled": true,
+  "orderChannels": [
+   "Room service",
+   "Dine in",
+   "Takeaway"
+  ],
+  "snacks": true,
+  "discounts": true,
+  "theme": "orange",
+  "tickerTheme": "deep-ocean",
+  "contactEnabled": false,
+  "contactEmail": "",
+  "contactPhone": "",
+  "productSlideshowEnabled": true,
+  "productSlideshowInterval": 8,
+  "productSlideshowTransition": "fade",
+  "productDisplayCount": 12,
+  "productLayout": "compact",
+  "wallpaperSlideshowEnabled": false,
+  "wallpaperSlideshowInterval": 10,
+  "wallpaperTransition": "fade",
+  "greetingName": "Collins",
+  "greetingMorning": "Good morning, {name}",
+  "greetingAfternoon": "Good afternoon, {name}",
+  "greetingEvening": "Good evening, collins",
+  "greetingAnimation": "marquee",
+  "greetingMotionSpeed": "normal",
+  "productAnimation": "cinematic",
+  "guestWelcome": "Merry Christmas Fam",
+  "dailyMessage": "",
+  "dailyDay": "*",
+  "dailyDiscount": 0,
+  "eventMessage": "",
+  "eventStart": "",
+  "eventEnd": "",
+  "eventDiscount": 0,
+  "eventTheme": "christmas",
+  "eventImage": "",
+  "seasonMessage": "",
+  "seasonStart": "",
+  "seasonEnd": "",
+  "seasonDiscount": 0,
+  "seasonTheme": "christmas",
+  "seasonImage": "uploads/product-1793118811581-1nb11.jpg",
+  "customHolidayWallpapers": {
+   "christmas": "assets/holiday-gallery-hd/christmas-07.jpg"
+  },
+  "rooms": false
+ },
+ "customers": [],
+ "pendingPayments": [],
+ "inventory": {}
+}
