@@ -1,0 +1,187 @@
+{
+ "replacements": {
+  "breakfast.jpg": {
+   "sourceFile": "premium-cafe-breakfast-plate-eggs-toast--3.jpg",
+   "sourceUrl": "https://pexels.com/photo/close-up-of-breakfast-on-restaurant-table-10720381",
+   "note": "Selected to replace a visibly weak, cluttered, watermarked, or poorly presented menu image."
+  },
+  "banana-bread.jpg": {
+   "sourceFile": "banana-bread-slice-cafe-menu-food-photog-1.jpg",
+   "sourceUrl": "https://thescranline.com/banana-bread-recipe/",
+   "note": "Selected to replace a visibly weak, cluttered, watermarked, or poorly presented menu image."
+  },
+  "fries.jpg": {
+   "sourceFile": "unsplash-fries-golden-french-fries-resta-3.jpg",
+   "sourceUrl": "https://www.pexels.com/search/french%20fries/",
+   "note": "Selected to replace a visibly weak, cluttered, watermarked, or poorly presented menu image."
+  },
+  "wings.jpg": {
+   "sourceFile": "image-search/site-pexels-com-grilled-chicken-wings-re-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/27605381/",
+   "note": "Search-sourced photograph; confirm usage rights before publication."
+  },
+  "chai.jpg": {
+   "sourceFile": "masala-chai-served-in-ceramic-cup-on-woo-1.jpg",
+   "sourceUrl": "https://www.pexels.com/search/chai/",
+   "note": "Selected to replace a visibly weak, cluttered, watermarked, or poorly presented menu image."
+  },
+  "pastry.jpg": {
+   "sourceFile": "croissant-coffee-on-ceramic-plate-cafe-p-2.jpg",
+   "sourceUrl": "https://pexels.com/photo/bread-on-wood-table-and-ceramic-cup-3681641",
+   "note": "Selected to replace a visibly weak, cluttered, watermarked, or poorly presented menu image."
+  },
+  "grill.jpg": {
+   "sourceFile": "grilled-ribeye-steak-served-plate-food-r-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/yummy-cut-steak-served-on-table-in-light-restaurant-6542790",
+   "note": "Selected to replace a visibly weak or poorly lit menu photo."
+  },
+  "curry.jpg": {
+   "sourceFile": "image-search/site-pexels-com-chicken-curry-rice-plate-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/27287005/",
+   "note": "Search-sourced photograph; confirm usage rights before publication."
+  },
+  "pilau.jpg": {
+   "sourceFile": "pilau-rice-kenyan-food-photography-resta-3.jpg",
+   "sourceUrl": "https://weeatatlast.com/swahili-kenyan-pilau-rice/",
+   "note": "Selected to replace a visibly weak or poorly lit menu photo."
+  },
+  "burger.jpg": {
+   "sourceFile": "image-search/real-burger-photo-pexels-plate-bun-fries-3.jpg",
+   "sourceUrl": "https://www.pexels.com/search/burger%20and%20fries/",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "sparkling-water.png": {
+   "sourceFile": "image-search/sparkling-mineral-water-glass-bottle-lem-1.jpg",
+   "sourceUrl": "https://www.pexels.com/search/mineral%20water/",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "mojito.jpg": {
+   "sourceFile": "image-search/passion-fruit-mojito-drink-real-photo-un-3.jpg",
+   "sourceUrl": "https://shutterandmint.com/passion-fruit-mojito-mocktail",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "mukimo.png": {
+   "sourceFile": "image-search/real-photo-mukimo-kenyan-food-plate-1.jpg",
+   "sourceUrl": "https://keeshaskitchen.com/kenyan-mukimo/",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "githeri.jpg": {
+   "sourceFile": "image-search/real-kenyan-githeri-food-photography-pla-2.jpg",
+   "sourceUrl": "https://weeatatlast.com/the-best-kenyan-githeri-recipe/",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "matoke.jpg": {
+   "sourceFile": "image-search/real-matoke-stew-recipe-photo-plate-bana-3.jpg",
+   "sourceUrl": "https://weeatatlast.com/matoke-with-beef-stew/",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "nyama-choma.jpg": {
+   "sourceFile": "image-search/real-nyama-choma-platter-kenya-restauran-3.jpg",
+   "sourceUrl": "https://intrepidtravel.com/adventures/food-in-kenya",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "ugali.jpg": {
+   "sourceFile": "image-search/kenyan-ugali-sukuma-wiki-real-photograph-2.jpg",
+   "sourceUrl": "https://cookpad.com/us/recipes/16795459-kenyan-ugali-na-sukuma-wiki",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "mandazi.jpg": {
+   "sourceFile": "image-search/site-pexels-com-mandazi-kenyan-doughnuts-1.jpg",
+   "sourceUrl": "https://www.pexels.com/search/kenyan%20tea/",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "chapati.jpg": {
+   "sourceFile": "image-search/east-african-real-chapati-flatbread-stac-2.jpg",
+   "sourceUrl": "https://weeatatlast.com/soft-chapati-recipe/",
+   "note": "Search-sourced photograph replacing a previously generated image; verify usage rights before publication."
+  },
+  "pancakes.jpg": {
+   "sourceFile": "image-search/site-pexels-com-pancake-berries-syrup-st-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/5710886/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "tropical-fruit.jpg": {
+   "sourceFile": "image-search/site-pexels-com-cut-tropical-fruit-bowl--1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/5620861/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "salmon.jpg": {
+   "sourceFile": "image-search/site-pexels-com-grilled-salmon-meal-rest-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/16845479/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "salad.jpg": {
+   "sourceFile": "image-search/site-pexels-com-quinoa-vegetable-bowl-sa-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/38499045/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "passion-juice.jpg": {
+   "sourceFile": "image-search/passion-fruit-juice-fresh-glass-passion--1.jpg",
+   "sourceUrl": "https://www.attainable-sustainable.net/passion-fruit-juice/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "fondant.jpg": {
+   "sourceFile": "image-search/site-pexels-com-chocolate-lava-cake-choc-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/27819685/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "cheesecake.jpg": {
+   "sourceFile": "image-search/mango-cheesecake-slice-plated-dessert-ph-1.jpg",
+   "sourceUrl": "https://www.pinterest.com/ideas/mango-cheesecake-photography/930849047648/",
+   "note": "Search-sourced photograph of mango cheesecake slice; replaces a key-lime slice that did not match the Mango cheesecake product. Confirm reuse rights before publication."
+  },
+  "club-sandwich.jpg": {
+   "sourceFile": "image-search/site-pexels-com-club-sandwich-restaurant-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/35158781/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "samosa.jpg": {
+   "sourceFile": "image-search/site-pexels-com-samosa-fried-food-photo--1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/14883752/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "pizza.webp": {
+   "sourceFile": "image-search/site-pexels-com-margherita-pizza-food-ph-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/20882533/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "smoothie.png": {
+   "sourceFile": "image-search/site-pexels-com-mango-smoothie-glass-rea-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/23471127/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "beer.jpg": {
+   "sourceFile": "image-search/tusker-lager-beer-bottle-kenya-photograp-1.jpg",
+   "sourceUrl": "https://www.doordash.com/products/kenya-breweries-limited-tusker-lager-bottle-520-ml/ugp_3d44ed2e-d0c3-43be-aa54-490237dc634f",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "brownie.jpg": {
+   "sourceFile": "image-search/site-pexels-com-chocolate-brownie-desser-1.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/33312981/",
+   "note": "Search-sourced photograph; confirm reuse rights before publication."
+  },
+  "cappuccino.jpg": {
+   "sourceFile": "image-search/site-pexels-com-cappuccino-coffee-cup-ba-2.jpg",
+   "sourceUrl": "https://www.pexels.com/photo/2159142/",
+   "note": "Search-sourced photograph of barista pouring latte art (hot cappuccino); renamed from iced-coffee.jpg to match the Barista cappuccino product. Confirm reuse rights before publication."
+  },
+  "steak-prawns.jpg": {
+   "sourceFile": "image-search/grilled-steak-and-prawns-surf-and-turf-p-3.jpg",
+   "sourceUrl": "https://drdavinahseats.com/the-ultimate-keto-surf-and-turf-recipe",
+   "note": "New search-sourced photograph for Grilled steak & prawns (was reusing the steak-only grill image). Confirm reuse rights before publication."
+  }
+ },
+ "generated_removed": [
+  "burger.jpg",
+  "sparkling-water.png",
+  "mojito.jpg",
+  "mukimo.png",
+  "githeri.jpg",
+  "matoke.jpg",
+  "nyama-choma.jpg",
+  "ugali.jpg",
+  "mandazi.jpg",
+  "chapati.jpg"
+ ],
+ "note": "Search-sourced photographs replace known generated product images; their authenticity and reuse permissions should be independently checked. Owner uploads require owner confirmation; software cannot detect every AI-generated image."
+}
